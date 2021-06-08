@@ -4,25 +4,25 @@ Java EE specification is used during the development. It includes technologies s
 ## Demonstration of work
 Home Page    |  Create a new account  
 :-------------------------:|:-------------------------:
-![Home Page](https://github.com/ArinaAndreeva/Bank-Dabrabyt/master/image/homepage.png)  |  ![Registration Form](https://github.com/ArinaAndreeva/Bank-Dabrabyt/master/image/registration.png)  
+![Home Page](https://raw.githubusercontent.com/ArinaAndreeva/Bank-Dabrabyt/master/WebContent/image/homepage.png)  |  ![Registration Form](https://raw.githubusercontent.com/ArinaAndreeva/Bank-Dabrabyt/master/WebContent/image/registration.png)  
 
 
 Login  |  Wrong username/password
 :-------------------------:|:-------------------------:
-![Login](https://github.com/ArinaAndreeva/Bank-Dabrabyt/master/image/login.png)  |  ![Wrong username/password](https://github.com/ArinaAndreeva/Bank-Dabrabyt/master/image/wronglogin.png)
+![Login](https://raw.githubusercontent.com/ArinaAndreeva/Bank-Dabrabyt/master/WebContent/image/login.png)  |  ![Wrong username/password](https://raw.githubusercontent.com/ArinaAndreeva/Bank-Dabrabyt/master/WebContent/image/wronglogin.png)
 
 
 Deposit Types    |  Single Deposit
 :-------------------------:|:-------------------------:
-![Deposit Types](https://github.com/ArinaAndreeva/Bank-Dabrabyt/master/image/deposittypes.png) |  ![Single Deposit](https://github.com/ArinaAndreeva/Bank-Dabrabyt/master/image/singledeposit.png)
+![Deposit Types](https://raw.githubusercontent.com/ArinaAndreeva/Bank-Dabrabyt/master/WebContent/image/deposittypes.png) |  ![Single Deposit](https://raw.githubusercontent.com/ArinaAndreeva/Bank-Dabrabyt/master/WebContent/image/singledeposit.png)
 
 
 Success Deposit   |  Error Deposit
 :-------------------------:|:-------------------------:
-![Success Deposit](https://github.com/ArinaAndreeva/Bank-Dabrabyt/master/image/successdeposit.png) |  ![Error Deposit](https://github.com/ArinaAndreeva/Bank-Dabrabyt/master/image/errordeposit.png)
+![Success Deposit](https://raw.githubusercontent.com/ArinaAndreeva/Bank-Dabrabyt/master/WebContent/image/successdeposit.png) |  ![Error Deposit](https://raw.githubusercontent.com/ArinaAndreeva/Bank-Dabrabyt/master/WebContent/image/errordeposit.png)
 
 
 Account Information (1) |  Account Information (2)
 :-------------------------:|:-------------------------:
-![Account Information/1](https://github.com/ArinaAndreeva/Bank-Dabrabyt/master/image/account1.png) |  ![Account Information/2](https://github.com/ArinaAndreeva/Bank-Dabrabyt/master/image/account2.png)
+![Account Information/1](https://raw.githubusercontent.com/ArinaAndreeva/Bank-Dabrabyt/master/WebContent/image/account1.png) |  ![Account Information/2](https://raw.githubusercontent.com/ArinaAndreeva/Bank-Dabrabyt/master/WebContent/image/account2.png)
 
