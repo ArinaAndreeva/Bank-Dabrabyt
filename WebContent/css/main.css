@@ -1,0 +1,82 @@
+.main-text {
+	position: absolute;
+	top: 50px;
+	width: 96.66666666666666%;
+	color: #FFF;
+}
+
+.main-text-2 {
+	position: absolute;
+	top: 40px;
+	width: 96.66666666666666%;
+	color: #100d0d;
+}
+
+.btn-min-block {
+	min-width: 170px;
+	line-height: 26px;
+}
+
+.btn-clear {
+	color: #FFF;
+	background-color: transparent;
+	border-color: #FFF;
+	margin-right: 15px;
+}
+
+.btn-clear:hover {
+	color: #000;
+	background-color: #FFF;
+}
+
+.carousel .carousel-inner img {
+	width: 100%;
+	height: 30em;
+	object-fit: cover;
+	overflow: hidden;
+}
+
+/*different schemes*/
+.schemes {
+	margin-top: 0px;
+	margin-bottom: 0px;
+	color: #FFFFFF;
+}
+
+.text-medium {
+	font-size: 40px;
+	font-weight: 600;
+}
+
+.scheme-text {
+	display: block;
+	margin-top: 20px;
+	font-size: 18px;
+	margin-right: 20px;
+}
+
+.scheme-button {
+	height: 500px;
+	margin-top: 30px;
+}
+
+.scheme-type-1 {
+	padding-top:40px;
+	height: 500px;
+	background-color: #B22222;
+	fill: #e3dade;
+}
+
+.scheme-type-2 {
+	padding-top:40px;
+	height: 500px;
+	background-color: #FFE4E1;
+	fill: #100c0e;
+}
+
+.scheme-type-3 {
+	padding-top:40px;
+	height: 500px;
+	background-color: #B22222;
+	fill: #e3dade;
+}

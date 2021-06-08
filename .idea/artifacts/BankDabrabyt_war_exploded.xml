@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="BankDabrabyt:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/BankDabrabyt_war_exploded</output-path>
+    <root id="root">
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="BankDabrabyt" />
+        </element>
+      </element>
+      <element id="library" level="module" name="ojdbc6.jar" module-name="BankDabrabyt" />
+      <element id="javaee-facet-resources" facet="BankDabrabyt/web/Web" />
+    </root>
+  </artifact>
+</component>
